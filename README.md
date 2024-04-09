@@ -1,6 +1,6 @@
 ## Data Structures And Algorithms    
 # Merge-Sort-Project   
-# Binary-Search-Tree-Project    
+# Binary-Search-Tree-Project     
 # Insertion-Sort-Project
 Given array: [16,21,11,8,12,22] -> Merge Sort
 # 1- Write down the steps of the given array according to the sorting type.
